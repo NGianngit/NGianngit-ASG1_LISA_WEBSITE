@@ -1,0 +1,95 @@
+LiSA fan website
+
+This project is a Singer website that features Lisa, the singer, as well as her songs, profile, live appearances,
+and merchandise.This website is for Lisa's admirers as well as other events.My goal is to increase interest in Lisa
+and provide a place for individuals who want to learn more about her, as well as to attract sponsors and earn money. 
+This website is so jam-packed with content and interactivity that users will find themselves glued to it. 
+
+Design Process
+
+I design the website so that it is easier on the eyes and won't strain them too much from looking at my website and added animations to the the website to make it more 
+attractive and appealing to the eyes. I made this website to get more people interested in LiSA and for the people who want to learn more about her and support her. My 
+website helps attract more fans by giving people a taste of her music and also has  information of Lisa history and also has a merchandise store and information on
+her live perfomances if you want to support her.
+
+In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+As a new fan I would want to know what kind of music does she make and whether it fits my taste in music, so I can go to the music section to listen to her songs.
+As a fan I may want to know about her history and maybe support her by buying merch and maybe going to her live, so I can go to the merch store to buy her merchandise
+and if I want to attend her live I can check out the live page on more information of live performances.
+As a potential work partner I may want to use one of her songs for a project that I am working on so the website helps me 
+by showing the songs that she has sung, hence I can visit the music page to listen to her songs.
+
+As a user type, I want to perform an action, so that I can achieve a goal.
+As a user type, I want the website to be simple and easy to navigate, hence I made the website simple and not too confusing to navigate.
+As a user type, I want to listen to her music, hence I add ed videos of her music for her fans to listen to.
+As a user type, I want to buy merchandise to support LiSA, hence I made a merch shop for fans to "buy" merchandise.
+
+This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
+wireframe- https://xd.adobe.com/view/fe52c25e-d046-45ba-ab83-8628b79c1fd6-ab01/
+
+Features
+In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+Feature 1 - allows users to "purchase" merchandise from the website buy add the items to the shopping cart.
+Feature 2 - the website is interactive which give the user a better experience when the explore the website.
+Feature 3 - allows users to listen to the music that lisa made when clicking on the video.
+
+
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Features Left to Implement
+Another feature idea
+If the shop can automatically update to the current merchandise that is being sold and can show whether it has run out of stock.
+Another feature idea
+have the music page have more songs and a button to go to the next page for more songs.
+
+Contact form:
+Go to the "Contact Us" page
+Try to submit the empty form and verify that an error message about the required fields appears
+Try to submit the form with an invalid email address and verify that a relevant error message appears
+Try to submit the form with all inputs valid and verify that a success message appears.
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+My website looks minimalistic and becomes skinnier when changiing screen sizes.
+
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+sometimes when resizing the page the page bugs out abit.
+
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+Credits
+photos
+1- https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4870979.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Foribe-risa-lisa-wallpapers&tbnid=7ojr_LNiJaqSvM&vet=12ahUKEwi2nOrk8ML0AhWRXn0KHU3GBh0QMygAegUIARCqAQ..i&docid=aEakh3cjeJfCdM&w=1920&h=1080&q=lisa%20japan%20wallpaper&ved=2ahUKEwi2nOrk8ML0AhWRXn0KHU3GBh0QMygAegUIARCqAQ
+2 - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Foribe-risa-lisa-wallpapers&psig=AOvVaw2EUY5AsYYFX509DdRqUq5f&ust=1638457721089000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNivsOzwwvQCFQAAAAAdAAAAABAD
+3 - https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4870992.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Foribe-risa-lisa-wallpapers&tbnid=q9nK4ZfUbieZyM&vet=12ahUKEwi2nOrk8ML0AhWRXn0KHU3GBh0QMygJegUIARC8AQ..i&docid=aEakh3cjeJfCdM&w=1920&h=1080&q=lisa%20japan%20wallpaper&ved=2ahUKEwi2nOrk8ML0AhWRXn0KHU3GBh0QMygJegUIARC8AQ
+4 - https://e.snmc.io/i/600/s/6cb57c8c08d094309845d68210747263/7503510/lisa-crossing-field-cover-art.jpg
+5 - https://64.media.tumblr.com/efdfba9ca9a10d0321f678bc6c8d0f1c/4f7b415f802a83ac-9c/s1280x1920/aafa349a6b819664abc1e3b77830ec2932f2bc62.jpg
+6 - https://i.pinimg.com/originals/d2/46/a4/d246a48a6bf49a104c6c358a01e15e9f.jpg
+7-  https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimecorner.me%2Flisa-is-finally-back-thank-you-for-a-lot-of-smiles%2F&psig=AOvVaw3W6-QIRJKy3-xXvVyswqlB&ust=1638439862279000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDH0qSuwvQCFQAAAAAdAAAAABBG
+8 - https://wallpapercave.com/oribe-risa-lisa-wallpapers
+9-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.beatport.com%2Frelease%2Fsilhouette-tokyo-machine-remix-sakura-chill-beats-singles%2F3484953&psig=AOvVaw0MQuN3BmXRL9VwJvlGDQfy&ust=1638537235413000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjVkoSZxfQCFQAAAAAdAAAAABAW
+10- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fashion-press.net%2Fnews%2F78528&psig=AOvVaw3txcAZudgJ2LxcohvDN87q&ust=1638539925455000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICJtK2jxfQCFQAAAAAdAAAAABAK
+11 - https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fzh%2F3%2F36%2FHomura_LiSA.jpg&imgrefurl=https%3A%2F%2Fzh.wikipedia.org%2Fzh-my%2F%25E7%2582%258E_(LiSA%25E5%2596%25AE%25E6%259B%25B2)&tbnid=n47Fv201DBc6EM&vet=12ahUKEwjz8cj1o8X0AhXiiOYKHettA3QQMygAegUIARCrAQ..i&docid=4Q7vIVoQRpsTpM&w=220&h=218&q=%E7%82%8E&ved=2ahUKEwjz8cj1o8X0AhXiiOYKHettA3QQMygAegUIARCrAQ
+
+merch - https://www.rocket-exp.com/s/R/artist/298153/item?ima=4302&rw=40
+1 - https://www.rocket-exp.com/images/15/9cd/c8ebc8f3a15e12ad68c28314deee6/150_150_102400.jpg
+2 - https://www.rocket-exp.com/images/15/cc5/72e21950973cf1ee23af507f7329a/150_150_102400.jpg
+3 - https://www.rocket-exp.com/images/15/7ab/bf13a67aefd90d0f1542c079f0c71/150_150_102400.jpg
+4 - https://www.rocket-exp.com/images/15/4f5/ab0607060f6c00a42915b72df4c0b/150_150_102400.jpg
+
+videos
+1-https://www.youtube.com/watch?v=Fvo5aRENJjk
+2-https://www.youtube.com/watch?v=UcFf8hcf1QU8
+3-https://www.youtube.com/watch?v=56aCZIEm9fc
+4 - https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw
+
+icon
+1 - https://icons8.com/icons/set/instagram
+2 - https://www.flaticon.com/free-icons/twitter
+3 - https://www.flaticon.com/premium-icon/twitter_2335417?term=twitter&page=1&position=66&page=1&position=66&related_id=2335417&origin=tag
+4 - https://logowik.com/tiktok-line-icon-vector-logo-8656.html
+
+Acknoledgement
+1 - https://www.lxixsxa.com/
+2 - https://www.yoasobi-music.jp/
+
+buttons
+1 - https://www.sliderrevolution.com/resources/css-button-hover-effects/
+2 - https://freefrontend.com/css-animated-backgrounds/
